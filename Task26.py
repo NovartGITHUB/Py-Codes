@@ -1,4 +1,4 @@
-# Write the program that converts any string written by the user into lowercase.
+# Below is a program that converts any string written by the user into lowercase.
 
 Lecture = input('Name of the Lecture: ')
 

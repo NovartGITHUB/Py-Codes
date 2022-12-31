@@ -1,5 +1,5 @@
-# Write the program that returns the position of the “s” letter in the string “Data Science Classes”.
-# What returns the script if the phrase was not found inside the string?
+# Below, I tried to write a program that returns the position of the “s” letter in the string “Data Science Classes”.
+# I also included error handling to the script if the command was not found inside the string.
 
 
 string = 'Data Science Classes'

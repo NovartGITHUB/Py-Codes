@@ -1,3 +1,5 @@
+# Below is a program to translate some english words to polish by using a predefinied library
+
 en_pl = {
     'cat':'kot',
     'dog':'pies',
